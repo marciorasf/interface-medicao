@@ -19,6 +19,6 @@ while(1)
     teste(tamPacote, energiaSec, i, strAtual);
     
     if mod(i, tamPacote+2)==0
-        pause(0.5)
+        pause(1)
     end
 end
