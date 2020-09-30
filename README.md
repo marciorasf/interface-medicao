@@ -1,4 +1,4 @@
-# interface-medicao
+# Interface Sistemas de Medição (UFMG ELE029)
 Repositório com os arquivos matlabs utilizados na interface do projeto da disciplina de Sistemas de Medição
 
 ## Desenvolvedores
